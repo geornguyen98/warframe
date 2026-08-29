@@ -1,0 +1,6 @@
+{
+  "name": "lib-kit50",
+  "version": "1.7.5",
+  "private": true,
+  "scripts": {"start": "node ."}
+}
